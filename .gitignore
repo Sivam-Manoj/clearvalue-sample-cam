@@ -3,6 +3,10 @@
 # dependencies
 node_modules/
 
+# credentials
+credentials.json
+@skodelabs.clearvalue_clcam.jks
+
 # Expo
 .expo/
 dist/
